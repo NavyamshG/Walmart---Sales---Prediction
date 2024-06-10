@@ -1,1 +1,1 @@
-# Walmart---Sales---Prediction
+# Walmart Sales Prediction
